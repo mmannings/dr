@@ -23,6 +23,8 @@
 @base <http://www.w3id.org/ecsel-dr> .
 
 
+
+
 <http://www.w3id.org/ecsel-dr> rdf:type owl:Ontology ;
                                 dc:description "Holistic Ontology for semiconductor manufacturing and development, products and systems containing semiconductors and connected supply chains."@en ;
                                 dc:title "Digital Reference"@en ;
