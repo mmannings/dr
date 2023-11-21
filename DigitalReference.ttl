@@ -3755,6 +3755,9 @@ ecsel-dr-AT:used_in_ISA_95_layer rdf:type owl:ObjectProperty ;
                                                                       rdfs:subPropertyOf owl:topObjectProperty ;
                                                                       rdfs:label "is described by customer plant data"@en .
 
+<http://www.w3id.org/ecsel-dr-OM#is_xmas_already_here> rdf:type owl:ObjectProperty ;
+                                                                      rdfs:subPropertyOf owl:topObjectProperty ;
+                                                                      rdfs:label "yet no - but it is awaitable"@en .
 
 ###  http://www.w3id.org/ecsel-dr-OM#is_described_by_supplier_data
 <http://www.w3id.org/ecsel-dr-OM#is_described_by_supplier_data> rdf:type owl:ObjectProperty ;
